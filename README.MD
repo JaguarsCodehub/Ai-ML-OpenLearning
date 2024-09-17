@@ -1,5 +1,5 @@
 # AI-ML-OpenLearning
-
+New Project Link: https://github.com/saurabhnative/video-game-sales-prediction-jupyter-notebook/blob/master/README.md
 Welcome to **AI-ML-OpenLearning**, a public repository where I document my journey of learning Artificial Intelligence (AI) and Machine Learning (ML) from scratch. 
 
 This repository is an open learning initiative where I explore key concepts, algorithms, tools, and techniques in AI and ML, and share everything I learn along the way. The goal is to learn, collaborate, and grow together as part of the AI/ML community.
