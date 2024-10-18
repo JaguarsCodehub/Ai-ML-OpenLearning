@@ -1,3 +1,8 @@
 .venv
 neural-network/.venv
 demo/PlantVillage
+demo/dataset
+demo/archive.zip
+demo/plant_disease_model.h5
+demo/plant_disease_model.keras
+demo/new_plant_disease_model.h5
