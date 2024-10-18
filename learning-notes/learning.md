@@ -1,3 +1,3 @@
 ## Learning AI - ML From scratch
 
-# AI-ML Roadm
+# AI-ML Roadmap
